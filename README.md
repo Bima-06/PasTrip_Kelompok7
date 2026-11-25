@@ -1,2 +1,0 @@
-# PasTrip_Kelompok7
-
