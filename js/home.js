@@ -1,4 +1,3 @@
-/* Beranda: kategori, destinasi populer, pencarian */
 (() => {
   PT.layout('beranda');
 
